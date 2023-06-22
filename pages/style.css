@@ -9,7 +9,8 @@ h1 {
 
 body {
     background: linear-gradient(180deg, #FFEEEE, #DDEFBB);
-    height: 100vh;
+    height: auto;
+    min-height: 100vh;
 }
 
 .block {
